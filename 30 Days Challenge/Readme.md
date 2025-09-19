@@ -86,8 +86,8 @@ Running this alongside my **30 Days of PySpark Challenge** ⚡
 ---
 
 ## 📢 Connect
-📍 GitHub: [Your Profile Link]  
-📍 LinkedIn: [Your LinkedIn Link]  
+📍 GitHub: [https://github.com/pawand2002/python/]
+📍 LinkedIn: [https://www.linkedin.com/in/pawandubey1990/]
 
 Let’s learn, share, and grow together! 🌱  
 
