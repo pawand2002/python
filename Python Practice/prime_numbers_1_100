@@ -1,0 +1,14 @@
+input_number = int(input(f"Enter the number:  ")) 
+if input_number < 2 :
+    print(f"{input_number} is not a prime number")
+else:
+    is_prime=True
+
+    for i in range(2,input_number):
+        if(input_number%i == 0):
+            is_prime=False
+            break 
+    if is_prime:
+        print(f"{input_number} is a prime number")
+    else:
+        print(f"{input_number} is not a prime number")
